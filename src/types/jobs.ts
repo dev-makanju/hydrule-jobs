@@ -1,6 +1,7 @@
 interface Jobs {
-   name: string,
-   age:  number,
+   title: string,
+   location:  string,
+   salary: number,
 }
 
 export default Jobs;
