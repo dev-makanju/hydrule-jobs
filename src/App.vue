@@ -21,13 +21,13 @@
       const jobs = ref<Jobs[]>([
         {
           title:'Food Vendor',
-          location: 'lagos',
-          salary: 50000
+          location: 'Kenya',
+          salary: 1000
         },
         {
           title:'Content writer',
           location: 'lagos',
-          salary: 50000
+          salary: 2000
         },
         {
           title:'Backend Developer',
@@ -36,8 +36,8 @@
         },
         {
           title:'Frontend Developer',
-          location: 'lagos',
-          salary: 50000
+          location: 'New York',
+          salary: 50
         },
       ]);
 
